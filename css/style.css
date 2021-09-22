@@ -660,6 +660,15 @@ header .icon img {
 	margin-top: 20px;	/*上に空ける余白。上下のバランスをここでとります。*/
 }
 
+.list {
+	position: relative;
+	float: left;	/*左に回り込み*/
+	width: 97%;		/*幅*/
+	margin-left: 2.5%;	/*左に空けるスペース*/
+	margin-bottom: 20px;	/*下に空けるスペース*/
+	background: #000;	/*背景色*/
+}
+
 /*footerブロック
 ---------------------------------------------------------------------------*/
 footer {padding-bottom: 100px;}
