@@ -3,7 +3,8 @@
 
 ## イベントの追加
 ファイル名は100個目のイベントとしています。
-*まず、`event0.html`中のコードををコピーし、新たに`event100.html`を作成し、貼り付けます。
+
+* まず、`event0.html`中のコードををコピーし、新たに`event100.html`を作成し、貼り付けます。
 ```
 <h2 class="title">Events<span>活動内容</span></h2>
 
@@ -74,7 +75,8 @@
 これで`event100.html`の編集は終了です。
   
 ---
-*次に`works.html`を開き、編集していきます。
+
+* 次に`works.html`を開き、編集していきます。
 ```
 <div class="list">
 <a href="event1.html">
