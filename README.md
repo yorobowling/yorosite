@@ -98,7 +98,9 @@
   
 これでイベントの追加は終わりです。
 
-##HOMEのWhat's newの追加
+
+## HOMEのWhat's newの追加
+
 `index.html`を開き、編集していきます。
 ```
 <dt>2021/9/21</dt>
